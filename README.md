@@ -19,14 +19,7 @@ Aplikasi Python untuk melacak nomor telepon dan NIK dari Telkomsel dengan interf
 - Terminal/Command Prompt dengan dukungan ANSI colors
 
 ## 🛠️ Instalasi
-
-1. Clone repository ini:
-```bash
-git clone https://github.com/yourusername/pegasus-lacak-nomor.git
-cd pegasus-lacak-nomor
-```
-
-2. Install dependencies yang diperlukan:
+1. Install dependencies yang diperlukan:
 ```bash
 pip install -r requirements.txt
 ```
