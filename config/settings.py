@@ -1,7 +1,7 @@
 # Application Settings
 
 # Password Configuration
-ACTIVATION_PASSWORD = "Sobri"
+ACTIVATION_PASSWORD = "luthfi"
 MAX_PASSWORD_ATTEMPTS = 3
 
 # Display Settings

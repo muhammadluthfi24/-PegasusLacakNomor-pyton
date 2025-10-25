@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. Masukkan password aktivasi (default: Sobri)
+2. Masukkan password aktivasi (default: luthfi)
 3. Masukkan nomor telepon (08xxx) atau NIK yang ingin dilacak
 4. Tunggu proses pencarian selesai
 5. Lihat hasil pencarian
@@ -73,7 +73,7 @@ Kontribusi selalu diterima! Silakan buat pull request atau laporkan issues.
 
 ## 📄 Lisensi
 
-Created by: Letda Kes dr. Sobri
+Created by: Letda Kes luthfi
 
 ## 🙏 Ucapan Terima Kasih
 

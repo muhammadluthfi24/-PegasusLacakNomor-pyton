@@ -29,7 +29,7 @@ def print_banner():
     banner = f"""
     {Fore.CYAN}╔════════════════════════════════════════════════════════════════════════════╗
     ║                         PEGASUS LACAK NOMOR v1.0                          ║
-    ║                     Created by: Letda Kes dr. Sobri                       ║
+    ║                     Created by: Letda Kes dr. luthfi                       ║
     ╚════════════════════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
     """
     print(banner)

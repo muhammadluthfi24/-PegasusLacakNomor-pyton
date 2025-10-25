@@ -17,7 +17,7 @@ def print_banner():
     banner = f"""
     {Fore.CYAN}╔════════════════════════════════════════════════════════════════════════════╗
     ║                         PEGASUS LACAK NOMOR v1.0                          ║
-    ║                     Created by: Letda Kes dr. Sobri                       ║
+    ║                     Created by: Letda Kes dr. luthfi                       ║
     ╚════════════════════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
     """
     print(banner)
@@ -28,7 +28,7 @@ def check_password():
     
     while attempts < max_attempts:
         password = input(f"\n{Fore.YELLOW}[!] Masukkan Password Aktivasi: {Style.RESET_ALL}")
-        if password == "Sobri":
+        if password == "luthfi":
             print(f"{Fore.GREEN}[✓] Password benar!{Style.RESET_ALL}")
             time.sleep(1)
             return True
